@@ -1,0 +1,24 @@
+.weatherDiv {
+    margin-left: 40%;
+    margin-top: 25%;
+}
+
+.temp {
+    font-size: 15px;
+    margin-left: 41%;
+    padding-top: 1px;
+}
+
+.curr {
+    font-size: 15px;
+    margin-left: 40%;
+    margin-top: -12px;
+}
+
+body {
+    background-image: url("white-wallpaper-18.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
